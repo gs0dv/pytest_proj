@@ -1,4 +1,3 @@
-from tests.conftest import array_fixture
 from utils import arrs
 
 
